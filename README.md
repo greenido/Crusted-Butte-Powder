@@ -21,5 +21,6 @@ On the front-end,
 <br>
 What to learn more about Actions on Google with Videos? Click on the image above.
 
+![](https://cdn.glitch.com/5e52a72f-da3a-4415-b9e8-014f7884e589%2Fhow%20can%20I%20help%20%2B%20assistant%20logo.png?1510886563473)
 
 <img src="https://ga-beacon.appspot.com/UA-65622529-1/powder-day-cb?pixel=0">
