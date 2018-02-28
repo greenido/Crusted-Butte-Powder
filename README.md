@@ -1,10 +1,8 @@
 # Is it a powder day at Crusted Butte?
-![](https://greenido.files.wordpress.com/2017/11/image5.png)
-### Actions on Google to get details on when/where there is a new flight to space
+![](https://cdn.glitch.com/77226634-c4ec-49b2-91d1-afa454bc1adb%2F300px-Crested_Butte.jpg?1519855661465)
+### Actions on Google to know if it's a powder day at Crusted Butte and you should run to the mountain.
 
-## [live demo](TODO)
-## Or check it live on the <a href="TODO">Google Assistant</a>
-
+## [live demo](https://powder-day-cb.glitch.me/)
     
 ### Project Details
 
@@ -23,5 +21,6 @@ On the front-end,
 <br>
 What to learn more about Actions on Google with Videos? Click on the image above.
 
+![](https://cdn.glitch.com/5e52a72f-da3a-4415-b9e8-014f7884e589%2Fhow%20can%20I%20help%20%2B%20assistant%20logo.png?1510886563473)
 
 <img src="https://ga-beacon.appspot.com/UA-65622529-1/powder-day-cb?pixel=0">
