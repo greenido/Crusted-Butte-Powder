@@ -118,8 +118,8 @@ app.post('/', function(req, res, next) {
              url:'http://www.skicb.com/the-mountain/trail-weather'},
             function (err, response, body) {
         if (err) {
-            console.log("An error occurred. date: " + flightDate + " Err: " + JSON.stringify(err));
-            assistant.tell("Sorry something is not working at the moment. Please try again laster.");
+            console.log("An error occurred. Err: " + JSON.stringify(err));
+            assistant.tell("Sorry something is not working at the moment. Please try again later and be happy.");
             return;
         }
         try {  
@@ -144,9 +144,6 @@ app.post('/', function(req, res, next) {
             assistant.ask("Could not find if there is powder today. See you later!");
             return;
           }
-          
-        
-          //console.log("== launchDate: " + launchDate + " mission: " + mission +  " LaunchTime: " + LaunchTime + " site: " + site + " description: " + description);
           
           let res = "In the past 24 hours we got " + snow24h + " inch of snow. The current tempartue is " +
             temp + " and it is " + weather + ". have a great day!" ;
