@@ -188,5 +188,4 @@ function logObject(message, object, options) {
 //
 let server = app.listen(process.env.PORT, function () {
   console.log('--> Our Webhook is listening on ' + JSON.stringify(server.address()));
-  
 });

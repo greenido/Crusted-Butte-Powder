@@ -1,8 +1,9 @@
 # Is it a powder day at Crusted Butte?
 ![](https://cdn.glitch.com/77226634-c4ec-49b2-91d1-afa454bc1adb%2F300px-Crested_Butte.jpg?1519855661465)
-### Actions on Google to know if it's a powder day at Crusted Butte and you should run to the mountain.
+### [Actions on Google](https://assistant.google.com/services/a/uid/0000009f0380b135?hl=en) to know if it's a powder day at Crusted Butte and you should run to the mountain.
 
-## [live demo](https://powder-day-cb.glitch.me/)
+## [live web demo](https://powder-day-cb.glitch.me/)
+## [The Google Assistant Action](https://assistant.google.com/services/a/uid/0000009f0380b135?hl=en)
     
 ### Project Details
 
